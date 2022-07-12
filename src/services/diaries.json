@@ -1,0 +1,23 @@
+[
+    {
+        "id": 4,
+        "date": "2019-01-01",
+        "weather": "sunny",
+        "visibility": "day",
+        "comments": "I'm getting pretty good at this"
+    },
+    {
+        "id": 5,
+        "date": "2019-02-15",
+        "weather": "cloudy",
+        "visibility": "night",
+        "comments": "I'm feel good"
+    },
+    {
+        "id": 6,
+        "date": "2020-02-15",
+        "weather": "snowy",
+        "visibility": "day",
+        "comments": "I'm feel good"
+    }
+]
